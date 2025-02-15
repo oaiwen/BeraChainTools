@@ -8,9 +8,6 @@ BeraChainTools 一个为 BeraChain 生态系统设计的工具集，旨在帮助
 
 执行以下命令以安装依赖：
 
-```
-pip install -r requirements.txt
-```
 
 ### Examples
 
